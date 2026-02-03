@@ -1,1 +1,2 @@
 # username:hashed_password
+testuser:$2b$12$yv0XH9B0wOz2KYDYNm.lM.Om3aFL7vz4vGzN0WFn9qRiQzjtNDqny
